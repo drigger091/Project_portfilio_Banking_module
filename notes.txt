@@ -1,0 +1,19 @@
+class aplication state
+it does - saves the user list , 
+
+
+
+
+func named save_app (free function) (application state object and path)
+
+
+check path validity
+
+f ,open
+acid transactions
+
+atomicty - (either fail or succeed)
+consistency (  )
+isolation ( multiple access but yours one is visible to you)
+durability - (ability of a sysrem to recover to save point amisdt failure)
+
